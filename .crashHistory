@@ -1,0 +1,100 @@
+echo crash crash.cpp runner
+clear
+ls crash.cpp
+clear
+ping 8.8.8.8
+ls
+echo hi
+ls
+sleep 3
+ls
+ls
+sleep 3
+ls
+hello
+ls
+sleep 3
+ls
+ls
+ls
+ls
+ping 8.8.8.8
+ls /home/biblock
+ls frank
+env
+clear
+ls
+clear
+ping 8.8.8.8
+ls
+echo hi
+ls
+sleep 3
+ls
+clear
+ls
+ls
+clear
+clear
+clear
+clear
+clear
+clear
+clear
+clear
+ls
+lssss
+ls -l
+ls -l -a -t
+sleep 2
+echo 1
+echo
+echo last
+clear
+clear
+clear
+clear
+clear
+clear
+clear
+clear
+exit
+clear
+echo hi
+exit
+clear
+exit
+clear
+exit
+exit
+echo hello
+exit
+exit
+exit
+clear
+exit
+echo start
+cd /
+echo start
+cd /
+exit
+echo start
+cd /
+echo start
+cd /
+echo end
+exit
+echo start
+cd /
+echo end
+exit
+cd /
+echo hi
+exit
+exirt
+exit
+A=1
+echo $A
+echo $C
+lss
+exit
