@@ -14,17 +14,17 @@ The shell can execute commands, manage background processes, keep command histor
 - Supports:
     - Background processes with: ```&```
     - Sequential commands with: ```;```
-    - Evironment Variable expansion and assignment.
+    - Environment Variable expansion and assignment.
     - Change Directory with: ```cd```
     - Script execution with: ```.(filename)``` 
-- Full implemention of GNU Realine
-- Startup config with .crash script
+- Full implementation of GNU Readline.
+- Startup config with .crash script.
 - Signal handling to terminate processes.
 
 
 ## Example
 
-A Project like this is best expirenced when treated like a sandbox. Try it out for your self!
+A Project like this is best experienced when treated like a sandbox. Try it out for yourself!
 
 ```
 CRASH-user /home/user$ mkdid
